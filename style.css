@@ -5,17 +5,14 @@
     color: #000;
     border-radius: o;
     border-bottom: 10px solid black;
-    
-    
     }
     
     .past {
-    
+
     height: 80px;
     text-align: left;
     
     }
-    
     .description {
     white-space: pre-wrap;
     
