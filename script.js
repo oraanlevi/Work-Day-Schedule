@@ -50,7 +50,7 @@ $(document).ready(function () {
 
  
 
-    var interval = setInterval(hourUpdater, 15000);
+    var interval = setInterval(hourUpdater, 10000);
 
     
 $('#hour-9 .description').val(localStorage.getItem)(('hour-9'));
